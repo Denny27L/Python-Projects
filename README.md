@@ -1,2 +1,3 @@
 # Python_Projects
-Check out my projects - beginner Python.
+
+My first Python project is BMI Calculator.
